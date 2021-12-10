@@ -12,7 +12,7 @@ If you are reading this, you are a **beta-tester**. All levels are open to you. 
 
 # Levels
 
-Level 1 (What is Eth)
+Level 1 (What is ETH)
 
 Level 2 (Basic Programming)
 
