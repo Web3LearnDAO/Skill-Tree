@@ -12,20 +12,20 @@ If you are reading this, you are a **beta-tester**. All levels are open to you. 
 
 # Levels
 
-Level 1
+Level 1 (What is Eth)
 
-|
+Level 2 (Basic Programming)
 
-v
+Level 3 (Wallet Setup)
 
-Level 2
+Level 4 (Remix Smart contract)
 
-Level 3
+Level 5 (Dapp)
 
-Level 4
+Level 6 (Cryptocurrency)
 
-Level 5
+Level 7 (Downloads)
 
-Level 6
+Level 8 (NFT)
 
-Level 7
+**Graduation**
