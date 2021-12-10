@@ -12,7 +12,8 @@ If you are reading this, you are a **beta-tester**. All levels are open to you. 
 
 # Levels
 
-Level 1 
+Level 1
+
 Level 2
 Level 3
 Level 4
