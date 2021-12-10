@@ -20,12 +20,14 @@ Level 3 (Wallet Setup)
 
 Level 4 (Remix Smart contract)
 
-Level 5 (Dapp)
+Level 5 (Solidity)
 
-Level 6 (Cryptocurrency)
+Level 6 (Dapp)
 
-Level 7 (Downloads)
+Level 7 (Cryptocurrency)
 
-Level 8 (NFT)
+Level 8 (Downloads)
+
+Level 9 (NFT)
 
 **Graduation**
